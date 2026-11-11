@@ -39,4 +39,4 @@ Portal de notícias em Django com autenticação, perfis, CRUD de postagens e AP
 
 ## Contato
 
-[Email](mailto:kaikydsousa@gmail.com) · [GitHub](https://github.com/kaikysousa)
+Email:kaikydsousa@gmail.com · [Linkedin]([https://github.com/kaikysousa](https://www.linkedin.com/in/kaiky-dourado-93216428a/))
