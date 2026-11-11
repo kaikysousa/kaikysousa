@@ -9,7 +9,7 @@ Construo aplicações web com Django, PostgreSQL e Docker. Foco em testes, integ
 
 ## Stack
 
-Python · Django · Django REST Framework · PostgreSQL · SQLite · Docker · Git · GitHub Actions · HTML/CSS/JavaScript · VHDL
+Python · Django · Django REST Framework · PostgreSQL · SQLite · Docker · Git · GitHub Actions · HTML/CSS/JavaScript
 
 ## Projetos em destaque
 
@@ -21,10 +21,6 @@ Sistema de pedidos para pizzaria: cardápio, carrinho, checkout e recibo para im
 - CI verde com Ruff e gates de segurança
 - Django 5.2 · SQLite · JavaScript
 
-<img src="https://raw.githubusercontent.com/kaikysousa/PizzariaDjango/main/docs/screenshots/cardapio.png" alt="Cardápio do PizzariaDjango" width="520">
-
-[Ver código](https://github.com/kaikysousa/PizzariaDjango)
-
 ### P.R.I.S.M.A
 
 Monitoramento de processos e proposições legislativas com integração às APIs da Câmara e do Senado.
@@ -32,7 +28,7 @@ Monitoramento de processos e proposições legislativas com integração às API
 - Django · PostgreSQL · Docker · HTMX · Playwright
 - 23 pull requests mergeados em equipe
 
-[Ver código](https://github.com/unb-mds/2026-1-P.R.I.S.M.A) · [Ver site](https://unb-mds.github.io/2026-1-P.R.I.S.M.A/)
+[Ver site](https://unb-mds.github.io/2026-1-P.R.I.S.M.A/)
 
 ### Portal de Notícias
 
@@ -40,14 +36,6 @@ Portal de notícias em Django com autenticação, perfis, CRUD de postagens e AP
 
 - Django 5.1 · Django REST Framework · SQLite
 - Testes de smoke e CI em Python 3.12
-
-[Ver código](https://github.com/kaikysousa/PortalDeNoticias)
-
-### ULA em VHDL
-
-Unidade lógica e aritmética de 4 bits para FPGA Cyclone IV, com testbench e projeto Quartus II.
-
-[Ver código](https://github.com/kaikysousa/ula-vhdl-fpga)
 
 ## Contato
 
