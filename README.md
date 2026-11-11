@@ -30,11 +30,20 @@ Monitoramento de processos e proposições legislativas com integração às API
 
 [Ver código](https://github.com/unb-mds/2026-1-P.R.I.S.M.A) · [Ver site](https://unb-mds.github.io/2026-1-P.R.I.S.M.A/)
 
+### Portal de Notícias
+
+Portal de notícias em Django com autenticação, perfis, CRUD de postagens e API REST.
+
+- Django 5.1 · Django REST Framework · SQLite
+- Testes de smoke e CI em Python 3.12
+
+[Ver código](https://github.com/kaikysousa/PortalDeNoticias)
+
 ### ULA em VHDL
 
 Unidade lógica e aritmética de 4 bits para FPGA Cyclone IV, com testbench e projeto Quartus II.
 
-[Ver código](https://github.com/kaikysousa/Pr-tica-de-elet-nica-digital)
+[Ver código](https://github.com/kaikysousa/ula-vhdl-fpga)
 
 ## Contato
 
