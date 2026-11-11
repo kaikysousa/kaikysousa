@@ -21,6 +21,8 @@ Sistema de pedidos para pizzaria: cardápio, carrinho, checkout e recibo para im
 - CI verde com Ruff e gates de segurança
 - Django 5.2 · SQLite · JavaScript
 
+<img src="https://raw.githubusercontent.com/kaikysousa/PizzariaDjango/main/docs/screenshots/cardapio.png" alt="Cardápio do PizzariaDjango" width="520">
+
 [Ver código](https://github.com/kaikysousa/PizzariaDjango)
 
 ### P.R.I.S.M.A
