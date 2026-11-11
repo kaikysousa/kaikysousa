@@ -17,7 +17,7 @@ Python · Django · Django REST Framework · PostgreSQL · SQLite · Docker · G
 
 Sistema de pedidos para pizzaria: cardápio, carrinho, checkout e recibo para impressora térmica de 80 mm.
 
-- 168 testes automatizados
+- 169 testes automatizados
 - CI verde com Ruff e gates de segurança
 - Django 5.2 · SQLite · JavaScript
 
