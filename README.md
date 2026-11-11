@@ -5,6 +5,8 @@ Estudante na Universidade de Brasília (UnB)
 
 Construo aplicações web com Django, PostgreSQL e Docker. Foco em testes, integração contínua e código simples de manter.
 
+**Aberto a estágios e vagas júnior.**
+
 ## Stack
 
 Python · Django · Django REST Framework · PostgreSQL · SQLite · Docker · Git · GitHub Actions · HTML/CSS/JavaScript · VHDL
